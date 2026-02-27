@@ -51,6 +51,16 @@ A Streamlit dashboard connected directly to the warehouse (read-only) with six p
 - Breach-to-repurchase tracking identified that users who breach via Monthly Loss Limit repurchase at 2x the rate of Daily Loss Limit breaches — directly informed the pricing team's reset fee strategy
 - New Customer Flow analysis revealed that the newest product model was attracting genuinely new customers (not cannibalization), validating the product team's launch hypothesis
 
+## Documentation
+
+Detailed write-ups on the analytical frameworks, SQL patterns, and design decisions:
+
+- **[Retention Taxonomy](docs/retention-taxonomy.md)** — The custom 10-category retention system, the active-trading check, and why standard 30/60/90 day buckets aren't enough
+- **[Breach & Repurchase Framework](docs/breach-repurchase.md)** — Connecting violation events to subsequent purchase behavior, news impact correlation
+- **[Customer Flow Analysis](docs/customer-flow-analysis.md)** — Contribution vs. cannibalization framework for new product launches
+- **[SQL Patterns](docs/sql-patterns.md)** — Key PostgreSQL patterns: DISTINCT ON, window functions, FILTER aggregates, composable fragments, year-partitioned routing
+- **[Alert System](docs/alert-system.md)** — Threshold-based anomaly detection, HTML email reports, SVG sparklines, scheduling
+
 ## Tech Stack
 
 - **Frontend**: Streamlit (Python)
