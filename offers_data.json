@@ -1,0 +1,116 @@
+{
+  "last_synced": "2026-02-25T04:28:21.196355+00:00",
+  "count": 10,
+  "data": [
+    {
+      "Title": "New Year Special",
+      "Type": "Offer",
+      "Year": "2026",
+      "Month": "January",
+      "Announcement": "Start 2026 strong! Get 20% off all Standard 2-Phase accounts this month. Use code NEWYEAR20 at checkout.",
+      "Code": "NEWYEAR20",
+      "Starting Date": "01-Jan-2026",
+      "Ending Date": "31-Jan-2026",
+      "Highlight": ["Standard 2-Phase", "20% off"]
+    },
+    {
+      "Title": "Valentine's Bundle",
+      "Type": "Offer",
+      "Year": "2026",
+      "Month": "February",
+      "Announcement": "Double the love! Purchase any account with the Double Up add-on and receive an extra 5% reward share for the first cycle.",
+      "Code": "",
+      "Starting Date": "10-Feb-2026",
+      "Ending Date": "16-Feb-2026",
+      "Highlight": ["Double Up", "Bonus reward"]
+    },
+    {
+      "Title": "Platform Update v3.2",
+      "Type": "Announcement",
+      "Year": "2026",
+      "Month": "January",
+      "Announcement": "We've updated the dashboard with improved charting and faster order execution. All existing accounts are automatically upgraded.",
+      "Code": "",
+      "Starting Date": "15-Jan-2026",
+      "Ending Date": "",
+      "Highlight": ["Platform", "Dashboard"]
+    },
+    {
+      "Title": "Weekend Trading Policy Reminder",
+      "Type": "Announcement",
+      "Year": "2025",
+      "Month": "December",
+      "Announcement": "Reminder: Weekend holding is allowed during the evaluation phase but not on funded accounts. Please close all positions before the weekend on your live accounts.",
+      "Code": "",
+      "Starting Date": "12-Dec-2025",
+      "Ending Date": "",
+      "Highlight": ["Weekend", "Policy"]
+    },
+    {
+      "Title": "Holiday Season Promo",
+      "Type": "Offer",
+      "Year": "2025",
+      "Month": "December",
+      "Announcement": "Happy holidays! Enjoy 25% off all account sizes. Plus, the Passing Reward is doubled (200%) for all purchases this month.",
+      "Code": "HOLIDAY25",
+      "Starting Date": "15-Dec-2025",
+      "Ending Date": "31-Dec-2025",
+      "Highlight": ["25% off", "200% Passing Reward"]
+    },
+    {
+      "Title": "Reward Split Update",
+      "Type": "Announcement",
+      "Year": "2025",
+      "Month": "November",
+      "Announcement": "Starting November 15, all new funded accounts will have an 80% base reward split (previously 75%). Existing accounts are grandfathered at their current rates.",
+      "Code": "",
+      "Starting Date": "15-Nov-2025",
+      "Ending Date": "",
+      "Highlight": ["Reward split", "80%"]
+    },
+    {
+      "Title": "Black Friday Deal",
+      "Type": "Offer",
+      "Year": "2025",
+      "Month": "November",
+      "Announcement": "Our biggest sale of the year! 30% off ALL account types + 300% Passing Reward campaign. Limited time only.",
+      "Code": "BF2025",
+      "Starting Date": "25-Nov-2025",
+      "Ending Date": "30-Nov-2025",
+      "Highlight": ["30% off", "300% Passing Reward"]
+    },
+    {
+      "Title": "Launch Promo Campaign",
+      "Type": "Offer",
+      "Year": "2025",
+      "Month": "October",
+      "Announcement": "Introducing our launch_promo campaign! Get a Standard account at a special promotional price. Limited to 10,000 accounts.",
+      "Code": "LAUNCH10",
+      "Starting Date": "10-Oct-2025",
+      "Ending Date": "15-Oct-2025",
+      "Highlight": ["Standard", "Launch promo"]
+    },
+    {
+      "Title": "New: Direct Start Accounts",
+      "Type": "Announcement",
+      "Year": "2025",
+      "Month": "September",
+      "Announcement": "We're excited to introduce Direct Start accounts -- skip the evaluation and start trading with real funded capital immediately. Features a 6% trailing loss limit and tier-based growth.",
+      "Code": "",
+      "Starting Date": "01-Sep-2025",
+      "Ending Date": "",
+      "Highlight": ["Direct Start", "New product"]
+    },
+    {
+      "Title": "Payout Processing Improvement",
+      "Type": "Announcement",
+      "Year": "2025",
+      "Month": "August",
+      "Announcement": "Good news! All reward payouts are now processed within 24 hours of request. We've added PayProvider and USDC as new payout methods alongside existing options.",
+      "Code": "",
+      "Starting Date": "01-Aug-2025",
+      "Ending Date": "",
+      "Highlight": ["Payout", "24 hours"]
+    }
+  ]
+}
