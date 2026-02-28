@@ -89,7 +89,7 @@ def render():
             st.caption("Not synced yet")
 
     if not _offers:
-        st.warning("No offers data found. Ask Claude to sync from Google Sheets.")
+        st.warning("No offers data found. Sync the data source to load offers.")
         return
 
     # ── Filters row 1: dropdowns ───────────────────────
